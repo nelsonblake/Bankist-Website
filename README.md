@@ -1,8 +1,12 @@
 # Bankist-Website
 How to run
 
-demo at https://bankist-website-blake-n.netlify.app/
+https://bankist-website-blake-n.netlify.app/
 
-Clone or download the repo Open project folder in vscode Start your live-server. you can use a live-server extension or you can type 'live-server' in the terminal if you have node.js installed. Either way Start your live-server. **If you do not have live-server functionality, you can open index.html in chrome.
+If you want to run it yourself, clone the repo then:
 
-Does not support database integration yet. You can not actually create an account just yet.
+run live server or open index.html in your browser
+
+# App Info
+
+Does not support database integration, uou can not actually create an account just yet.
